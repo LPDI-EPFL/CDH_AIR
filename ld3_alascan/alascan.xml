@@ -1,0 +1,13 @@
+<ROSETTASCRIPTS>
+  <SCOREFXNS>
+    <sfxn_talaris2013 weights="talaris2013" />
+  </SCOREFXNS>
+  <FILTERS>
+    <AlaScan name="alascan" scorefxn="sfxn_talaris2013" />
+
+  </FILTERS>
+  <PROTOCOLS >
+    <Add filter_name=alascan/>
+  </PROTOCOLS>
+
+</ROSETTASCRIPTS>

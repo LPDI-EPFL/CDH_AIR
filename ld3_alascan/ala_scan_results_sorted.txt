@@ -1,0 +1,39 @@
+ILE 238 B:  -7.6004
+ILE 231 B:  -3.1397
+ARG 192 B:  -0.9242
+LEU 233 B:  -0.5347
+GLN 245 B:  -0.2894
+SER 127 B:  -0.0844
+ALA 227 B:  0.0577
+ALA 241 B:  0.0577
+VAL 224 B:  0.1025
+SER 228 B:  0.1420
+LEU 123 B:  0.2228
+ASP 243 B:  0.2996
+LYS 246 B:  1.0131
+SER 130 B:  1.2486
+GLU 124 B:  1.7952
+GLN 234 B:  1.9386
+ALA 232 B:  2.0331
+ARG 236 B:  2.5817
+PHE 242 B:  2.7972
+ASP 240 B:  4.1881
+LEU 235 B:  4.9537
+GLY 239 B:  93.4383
+
+Mild mutations: 
+ASP 243
+GLU 124
+
+Strong mutations
+ARG 236
+PHE 243
+ASP 240
+LEU 235
+
+
+select one_to_two, resi 246+130+124+234
+
+select two_to_four, resi 232+235+242+240+235
+
+select zero_to_one, resi 224+228+123+243

@@ -1,0 +1,4 @@
+SEQUENCE: 
+SCORE: total_score         ddg dslf_fa13    fa_atr    fa_dun   fa_elec fa_intra_rep       fa_rep       fa_sol hbond_bb_sc hbond_lr_bb    hbond_sc hbond_sr_bb       omega     p_aa_pp pro_close      rama       ref      sasa description 
+SCORE:    -207.844     -14.575     0.000 -1046.991   357.721   -79.704        2.188      146.400      584.064      -4.615      -2.422     -21.139    -134.234      27.421     -11.269     2.567   -13.183   -14.646  2336.652 designed_1LE4A_0001_gln234_0001
+SCORE:    -213.646     0.000 -1041.278   357.719   -79.729        2.188      136.443      582.192      -4.493      -2.421     -20.913    -134.242      27.419     -11.269     2.569   -13.183   -14.646 designed_1LE4A_0001_gln234_0001
