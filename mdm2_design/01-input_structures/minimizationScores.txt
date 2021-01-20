@@ -1,0 +1,4 @@
+SEQUENCE: 
+SCORE: total_score         ddg dslf_fa13    fa_atr    fa_dun   fa_elec fa_intra_rep       fa_rep       fa_sol hbond_bb_sc hbond_lr_bb    hbond_sc hbond_sr_bb       omega     p_aa_pp pro_close      rama       ref      sasa description 
+SCORE:     135.673      -9.634     0.000  -400.707   290.454   -28.297        1.177       91.391      219.657      -3.582      -9.970      -3.008     -28.764       1.365      -3.377    11.580    -1.671    -0.574  1465.183 mdm2_p53_0001
+SCORE:    -161.955     0.000  -388.562    94.030   -37.283        0.892       44.600      196.559      -7.987     -12.841      -9.784     -31.160       6.151      -9.192     0.495    -7.299    -0.574 mdm2_p53_0001

@@ -1,0 +1,2 @@
+python /work/upcorreia/bin/dbpicker.py -excludeNMR -monomers -maxSize 160 -minSize 80 -requireH -db /work/upcorreia/databases/pdb.2015.09.17/cleanPDB.rosetta_ok.tsv.gz -out input.pdb.list
+python /work/upcorreia/bin/castor.rosettascript.py -rosetta:script motif_graft_and_design.xml -list:file input.pdb.list -list:split:byfiles 1000
