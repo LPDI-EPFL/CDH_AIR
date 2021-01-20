@@ -1,2 +1,4 @@
 # CDH_AIR
-Repository for Shui et al. 2021
+This is a repository for the protein design scripts used in Shui et al. 2021
+
+
