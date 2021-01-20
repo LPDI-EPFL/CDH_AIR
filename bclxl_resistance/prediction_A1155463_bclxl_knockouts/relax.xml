@@ -1,0 +1,16 @@
+<ROSETTASCRIPTS>
+  <SCOREFXNS>
+    <sfxn_talaris2013 weights="talaris2013"/>
+  </SCOREFXNS>
+  <MOVERS>
+    <FastRelax name="MinScaffold" scorefxn=sfxn_talaris2013 repeats=5/>
+    <MinMover name="LocalMinStructure" scorefxn=sfxn_talaris2013 bb=true chi=true type=dfpmin_armijo_nonmonotone />
+  </MOVERS>
+  <APPLY_TO_POSE>
+  </APPLY_TO_POSE>
+  <PROTOCOLS>
+      <Add mover_name=LocalMinStructure/>
+      <!--<Add mover_name=MinScaffold/>-->
+  </PROTOCOLS>
+</ROSETTASCRIPTS>
+
